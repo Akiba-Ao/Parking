@@ -27,7 +27,7 @@
     <%--
     <div class="func">
         <ul>
-            <li class="li_func1"><a href="<%=path %>/Common/ChagePwd.jsp" target="mainFrame">修改密码</a></li>
+            <li class="li_func1"><a href="<%=path %>/Common/ChangePwd.jsp" target="mainFrame">修改密码</a></li>
             <li class="li_func2"><a href="<%=path %>/Common/UserInfo.jsp" target="mainFrame">用户信息</a></li>
             <li class="li_func3"><a href="<%=path %>/Common/Logout.jsp">退出系统</a></li>
         </ul>
@@ -77,7 +77,7 @@
         </li>
         <li><span>系统功能操作</span>
             <ul>
-                <li><a href="<%=path %>/Common/ChagePwd.jsp" target="mainFrame">修改密码</a></li>
+                <li><a href="<%=path %>/Common/ChangePwd.jsp" target="mainFrame">修改密码</a></li>
                 <li><a href="<%=path %>/Common/Logout.jsp">退出系统</a></li>
             </ul>
         </li>
@@ -92,7 +92,7 @@
 
         <li><span>系统功能操作</span>
             <div>
-                <a href="<%=path %>/Common/ChagePwd.jsp" target="mainFrame">修改密码</a>
+                <a href="<%=path %>/Common/ChangePwd.jsp" target="mainFrame">修改密码</a>
                 <a href="<%=path %>/Common/UserInfo.jsp" target="mainFrame">个人信息</a>
                 <a href="<%=path %>/Common/Logout.jsp">退出系统</a>
             </div>
