@@ -2,6 +2,7 @@
 <hr>
 
 * Introduction
+<hr/>
 
 ## Introduction
 <hr>
@@ -12,3 +13,4 @@ Some characteristics:
 1.Optimization of dynamic processing
 
 2.Information protection and authority management
+<hr/>
