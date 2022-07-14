@@ -1,6 +1,6 @@
 # Design and implementation of Parking Management System based on JavaWeb
 
-[TOC]
+- [Introduction](#introduction)
 
 ## Introduction
 
