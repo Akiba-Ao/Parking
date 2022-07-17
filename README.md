@@ -1,6 +1,7 @@
 # Design and implementation of Parking Management System based on JavaWeb
 
 - [Introduction](#introduction)
+- [Running Environment](#Running Environment)
 
 ## Introduction
 
@@ -16,4 +17,10 @@ Some characteristics:
 
 4.The system is developed using MVC framework, which has the characteristics of low coupling, high reusability, fast deployment and high maintainability, and can meet the needs of users for system stability.
 
-5.The back-end code of this system uses Java language, which benefits from its language characteristics. This system has excellent portability. 
+5.The back-end code of this system uses Java language, which benefits from its language characteristics. This system has excellent portability.
+
+## Running Environment
+
+- Tomcat 9.0
+- Java 1.6.0
+- MySQL 8.0.24 Community
