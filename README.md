@@ -17,7 +17,7 @@ Some characteristics:
 
 4.The system is developed using MVC framework, which has the characteristics of low coupling, high reusability, fast deployment and high maintainability, and can meet the needs of users for system stability.
 
-5.The back-end code of this system uses Java language, which benefits from its language characteristics. This system has excellent portability.
+5.The back-end code of this system uses Java language, which benefits from its language characteristics. 
 
 ## Running Environment
 
