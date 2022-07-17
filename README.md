@@ -1,7 +1,7 @@
 # Design and implementation of Parking Management System based on JavaWeb
 
 - [Introduction](#introduction)
-- [Running Environment](#Running Environment)
+- [Running Environment](#running-environment)
 
 ## Introduction
 
