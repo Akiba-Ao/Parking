@@ -13,7 +13,7 @@ Some characteristics:
 
 2.Information protection and authority management
 
-3.This system uses b/s structure, namely browser and server structure. Without downloading any software, users can quickly complete various operations directly on the browser side, which can meet users' needs for easy access to the system.
+3.This system uses B/S structure, namely browser and server structure. Without downloading any software, users can quickly complete various operations directly on the browser side, which can meet users' needs for easy access to the system.
 
 4.The system is developed using MVC framework, which has the characteristics of low coupling, high reusability, fast deployment and high maintainability, and can meet the needs of users for system stability.
 
