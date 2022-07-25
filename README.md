@@ -22,5 +22,5 @@ Some characteristics:
 ## Running Environment
 
 - Tomcat 9.0
-- Java 1.6.0
+- Java 1.8.0
 - MySQL 8.0.24 Community
