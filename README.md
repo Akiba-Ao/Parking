@@ -7,7 +7,7 @@
 
 This is a simple Parking Management System based on JavaWeb technology
 
-Some characteristics:
+Characteristics:
 
 1.Optimization of dynamic processing
 
