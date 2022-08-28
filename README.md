@@ -1,8 +1,13 @@
 # Parking Management System based on JavaWeb
 
-- [Introduction](#introduction)
-- [Running Environment](#running-environment)
-- [Feasibility](#feasibility)
+  - [Attention](#attention)
+  - [Introduction](#introduction)
+    - [Characteristics:](#characteristics)
+  - [Running Environment](#running-environment)
+  - [Feasibility](#feasibility)
+## Attention 
+Please change content of .\src\DBUtil\db.properties
+No.2 row "user" and "pwd" to your own MySQL Server user and pwd
 ## Introduction
 
 This is a simple Parking Management System based on JavaWeb technology
