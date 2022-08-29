@@ -12,7 +12,7 @@ No.2 row "user" and "pwd" to your own MySQL Server user and pwd
 
 This is a simple Parking Management System based on JavaWeb technology
 
-### Characteristics:
+### Characteristics
 
 1.Optimization of dynamic processing
 
