@@ -2,7 +2,7 @@
 
   - [Attention](#attention)
   - [Introduction](#introduction)
-    - [Characteristics:](#characteristics)
+    - [Characteristics](#characteristics)
   - [Running Environment](#running-environment)
   - [Feasibility](#feasibility)
 ## Attention 
