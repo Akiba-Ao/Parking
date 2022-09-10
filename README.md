@@ -7,7 +7,7 @@
   - [Feasibility](#feasibility)
 ## Attention 
 Please change content of .\src\DBUtil\db.properties
-No.2 row "user" and "pwd" to your own MySQL Server user and pwd
+No.2 row `user` and `pwd` to your own MySQL Server user and pwd
 
 If your MySQL version is lower than 5, please change content of .\src\DBUtil\db.properties
 No.4 row to `driver=com.mysql.jdbc.Driver`
